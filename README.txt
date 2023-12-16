@@ -20,7 +20,7 @@ C:\Users\Myusername\.thermometer
 
 On Linux:
 
-
+.../home/Myusername/.thermometer
 
 ============================
 ====== ASSETS SOURCES ======
